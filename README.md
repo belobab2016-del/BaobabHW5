@@ -31,7 +31,7 @@
 У відповіді на ДЗ надсилаються два посилання:
 
 - посилання на репозиторій: `https://github.com/belobab2016-del/BaobabHW5.git`
-- посилання на GitHub Pages: `https://denchuhuiev.github.io/BaobabHW5/`
+- посилання на GitHub Pages: `https://belobab2016-del.github.io/BaobabHW5/`
 
 ## Чекліст перед фінальною здачею
 
@@ -40,4 +40,5 @@
 - [ ] Налаштовано `origin` на GitHub.
 - [ ] Виконано `git push -u origin master`.
 - [ ] GitHub Pages увімкнено та сторінка відкривається.
+
 
