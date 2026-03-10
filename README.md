@@ -22,7 +22,7 @@
 - `git add`
 - `git commit`
 - `git remote add origin <URL>`
-- `git push -u origin main`
+- `git push -u origin master`
 - `git status`
 - `git log`
 
@@ -36,7 +36,8 @@
 ## Чекліст перед фінальною здачею
 
 - [ ] Репозиторій ініціалізовано (`git init`).
-- [ ] Є мінімум 5 комітів у гілці `main`.
+- [ ] Є мінімум 5 комітів у гілці `master`.
 - [ ] Налаштовано `origin` на GitHub.
-- [ ] Виконано `git push -u origin main`.
+- [ ] Виконано `git push -u origin master`.
 - [ ] GitHub Pages увімкнено та сторінка відкривається.
+
